@@ -18,7 +18,7 @@ ESILV S2 2021–2022
 
 ## Introduction
 
-The goal of this project was to create a simple ChatBot capable of answering simple questions about the weather. A rule based ChatBot is used to answer correctly to the user thanks to regex. The bot is host on Node.js 
+The goal of this project was to create a ChatBot capable of answering simple questions about the weather. A rule based ChatBot is used to answer correctly to the user thanks to regex. The bot is host on Node.js 
 
 <a href="url"><img src="https://github.com/GitBrunoCode/Simple-Rule-Based-Weather-Bot/blob/main/app_diagram.png" align="center" width=80% height=80% ></a>
 
