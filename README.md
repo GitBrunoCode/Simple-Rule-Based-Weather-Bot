@@ -12,7 +12,7 @@ ESILV S2 2021–2022
 1. [Introduction](#Introduction)
 2. [Installation](#Installation)
 3. [Example](#Example)
-4. [Author Info](#author-info)
+4. [Authors Info](#author-info)
 
 ---
 
@@ -97,7 +97,7 @@ The goal of this project was to create a simple ChatBot capable of answering sim
 
 ---
 
-## Author Info
+## Authors Info
 
 - Pincet Bruno - [@GitBrunoCode](https://github.com/GitBrunoCode)
 - Porterie Benjamin [@benptr](https://github.com/benptr)
