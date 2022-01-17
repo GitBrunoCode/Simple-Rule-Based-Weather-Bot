@@ -68,7 +68,7 @@ The goal of this project was to create a ChatBot capable of answering simple que
 
 
 * Download and Install Node.Js if you haven't done it yet 
->[click here to download Node.Js ](https://duckduckgo.com)
+>[click here to download Node.Js ](https://nodejs.org/en/)
 * Use the following command in the Windows command prompt
 ```
    cd "project_name"
