@@ -11,7 +11,7 @@ ESILV S2 2021–2022
 
 1. [Introduction](#Introduction)
 2. [Installation](#Installation)
-3. [Exemple](#Example)
+3. [Example](#Example)
 4. [Author Info](#author-info)
 
 ---
